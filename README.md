@@ -49,4 +49,8 @@ Contributions to this project are welcome! Here’s how you can contribute:
    
 Please feel free to raise any issues if you encounter bugs or have suggestions for improvements.
 
+## Author
+- [smahala02](https://github.com/smahala02)
+
+
 
